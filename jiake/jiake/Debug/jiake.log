@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\14216\source\repos\jiake\jiake\PE.h(166,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\14216\source\repos\jiake\jiake\PE.h(204,20): warning C4018: “<”: 有符号/无符号不匹配
+  jiake.vcxproj -> C:\Users\14216\source\repos\jiake\Debug\jiake.exe

@@ -1,0 +1,5 @@
+﻿  pe_viewer.cpp
+C:\Users\14216\source\repos\jiake\jiake\pe_viewer.cpp(10,21): warning C4101: “pe_file_header”: 未引用的局部变量
+C:\Users\14216\source\repos\jiake\jiake\pe_viewer.cpp(9,20): warning C4101: “pe_nt_header”: 未引用的局部变量
+C:\Users\14216\source\repos\jiake\jiake\pe_viewer.cpp(11,27): warning C4101: “pe_opt_header”: 未引用的局部变量
+  jiake.vcxproj -> C:\Users\14216\source\repos\jiake\x64\Debug\jiake.exe

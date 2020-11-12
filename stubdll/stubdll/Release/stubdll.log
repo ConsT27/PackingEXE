@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\Users\14216\source\repos\stubdll\stubdll\dllmain.cpp(32,20): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 C:\Users\14216\source\repos\stubdll\Release\stubdll.lib 和对象 C:\Users\14216\source\repos\stubdll\Release\stubdll.exp
+  正在生成代码
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+dllmain.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  stubdll.vcxproj -> C:\Users\14216\source\repos\stubdll\Release\stubdll.dll

@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\14216\source\repos\jiake\jiake\PE.h(9,2): warning C4091: “typedef ”: 没有声明变量时忽略“StubInfo”的左侧
+C:\Users\14216\source\repos\jiake\jiake\PE.h(154,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\14216\source\repos\jiake\jiake\PE.h(181,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 14 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  jiake.vcxproj -> C:\Users\14216\source\repos\jiake\Release\jiake.exe

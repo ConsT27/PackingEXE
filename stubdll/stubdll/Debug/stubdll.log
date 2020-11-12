@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+    正在创建库 C:\Users\14216\source\repos\stubdll\Debug\stubdll.lib 和对象 C:\Users\14216\source\repos\stubdll\Debug\stubdll.exp
+dllmain.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  stubdll.vcxproj -> C:\Users\14216\source\repos\stubdll\Debug\stubdll.dll
